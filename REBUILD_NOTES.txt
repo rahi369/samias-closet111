@@ -1,0 +1,3 @@
+Samia’s Closet rebuild base: original 100 Premium build preserved.
+Changes only: robust Firebase redirect login, Combo Moments CRUD, product photo-only lightbox, VIEW detail modal, no image crop.
+Firebase project/config unchanged. Add the exact Netlify domain to Firebase Authentication > Authorized domains before login.

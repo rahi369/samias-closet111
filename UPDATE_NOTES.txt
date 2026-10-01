@@ -1,0 +1,8 @@
+Samia's Closet — Updated Build
+
+1. Homepage hero wallpaper redesigned to match the supplied dark floral/editorial reference.
+2. The wallpaper contains decorative botanical/fashion-inspired graphics only — no people or product photos.
+3. Existing products, cart, search, checkout, Firebase, admin settings, contact links and other functionality are preserved.
+4. Admin Google login now uses a popup flow.
+5. Vercel /admin and /admin/ routes rewrite to admin.html.
+6. Firebase project remains samia-s-closet-1aac1 and admin email remains aminulhasim73@gmail.com.

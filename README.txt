@@ -1,0 +1,1 @@
+Samia’s Closet premium rebuild. Firebase project: samia-s-closet-1aac1. Admin: aminulhasim73@gmail.com. Product images are compressed in-browser and stored in Firestore; Firebase Storage is not required for this build.

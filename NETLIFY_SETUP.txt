@@ -1,0 +1,1 @@
+Deploy the folder root. The public store is index.html and the private admin route is /admin.

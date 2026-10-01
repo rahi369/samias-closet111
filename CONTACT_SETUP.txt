@@ -1,0 +1,5 @@
+Contact setup:
+- Contact label: Samia
+- Owner name: Md.Humaun Husen Rahi
+- WhatsApp number: 01834012069
+- WhatsApp buttons should open a direct WhatsApp chat using wa.me/8801834012069.

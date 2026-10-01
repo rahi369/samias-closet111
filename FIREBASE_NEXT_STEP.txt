@@ -1,0 +1,22 @@
+SAMIA'S CLOSET — NEW FIREBASE PROJECT
+
+Connected project:
+samia-s-closet-1aac1
+
+Admin Gmail:
+aminulhasim73@gmail.com
+
+Already configured in this package:
+- Firebase Web App config
+- Google admin login
+- Firestore database functions
+- Admin email authorization
+
+IMPORTANT:
+Firebase Storage is still referenced for product image uploads. Your current Firebase project may require a billing plan for Storage. Do NOT upgrade just for this yet. We can switch product-image hosting to a free image service such as Cloudinary in the next step.
+
+After deploying, test:
+1. Open /admin
+2. Continue with Google
+3. Sign in with aminulhasim73@gmail.com
+4. Check that the Admin panel opens.
